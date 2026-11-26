@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./github-banner.png" alt="Paridhi Sureka | Data Analytics, Business Intelligence and Python" width="100%">
+</p>
+
 # Hi, I'm Paridhi Sureka 👋
 
 ### Data Analytics | Business Intelligence | SQL | Power BI | Python
