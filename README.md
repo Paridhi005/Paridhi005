@@ -47,20 +47,72 @@ My background in accounts, financial reporting, business operations, and adminis
 
 ### 🚀 Featured Projects
 
-#### 📊 Data Analytics & Business Intelligence
-*Projects focused on data cleaning, exploratory analysis, SQL queries, dashboards and business insights.*
+<table>
+<tr>
+<td width="100%">
 
-> Portfolio projects are currently being developed and refined.
+#### 🧠 [NoteMind AI](https://github.com/Paridhi005/NoteMind-AI)
 
-#### 🧠 NoteMind AI — AI-Powered Academic Knowledge Assistant
-A full-stack AI application that helps users interact with their academic documents through intelligent question answering, summaries, quizzes and flashcards.
+**AI-Powered Academic Knowledge Assistant**
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, Gemini API
+An AI-powered study platform that transforms uploaded PDF notes into interactive learning resources.
 
-#### 🤟 SilentSign — Real-Time Sign Language Interpreter
-An AI-powered application designed to support communication through gesture recognition, speech processing and text-to-speech capabilities.
+- 📄 PDF uploads and notebook management
+- 💬 Context-based AI question answering
+- 📝 Automated summaries and quizzes
+- 🎴 AI-generated flashcards
 
-**Tech:** React.js, Node.js, Express.js, MongoDB, AI & gesture recognition
+**Technologies**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=googlegemini&logoColor=white)
+
+[View Repository →](https://github.com/Paridhi005/NoteMind-AI)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 🤟 SilentSign
+
+**Real-Time AI-Based Sign Language Interpreter**
+
+An accessibility-focused application designed to support communication through gesture recognition and speech processing.
+
+- Real-time gesture recognition
+- Sign-to-text conversion
+- Speech-to-text and text-to-speech
+- AI-assisted communication
+
+**Technologies:** React.js · Node.js · Express.js · MongoDB · AI
+
+*Repository and documentation coming soon.*
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 📊 Data Analytics Portfolio
+
+**SQL | Python | Power BI | Tableau**
+
+A growing collection of practical analytics projects focused on transforming raw data into meaningful business insights.
+
+- SQL-based data exploration
+- Python data analysis
+- Business intelligence dashboards
+- Data visualization and storytelling
+
+<sub>🚧 Currently in development</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
